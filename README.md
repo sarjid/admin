@@ -1,0 +1,3 @@
+# admin
+
+This is a admin panel templete .. This is very amazing templete ....your can get easily work use this templete........ 
